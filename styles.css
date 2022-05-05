@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  display: block;
+  padding-left: 1000px;
+  width: 100vw;
+  height: 100vh;
+}
+.cigar1 {
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.cigar2 {
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.cigar3 {
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.cigar4 {
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+img {
+  aspect-ratio: 1;
+}
