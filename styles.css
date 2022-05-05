@@ -1,10 +1,8 @@
 body {
-  background-color: white;
   display: block;
-  padding-left: 1000px;
-  width: 100vw;
-  height: 100vh;
+  margin-left: 30%;
 }
+
 .cigar1 {
   background-repeat: no-repeat;
   display: inline-block;
