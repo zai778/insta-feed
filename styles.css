@@ -22,7 +22,7 @@ body {
   display: inline-block;
 }
 img {
-  width: 20%;
+  width: 30%;
   object-fit: cover;
   aspect-ratio: 1;
 }
